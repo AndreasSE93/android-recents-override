@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recents auto-removal override</string>
+    <string name="app_desc">Prevents apps from being removed from Recents (Overview) after 6 hours.</string>
+</resources>
